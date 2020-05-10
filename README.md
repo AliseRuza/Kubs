@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
         <style>
             body {background-image: url('Photos/kopiga1.jpg'); }
-            h1 {background-color: Linen ;font-size:26;}
+            h1 {background-color: Linen ;font-size: 26;}
             h2 {background-color: Moccasin ; font-family: monospace}
             h3 {background-color: Wheat ; font-family: "Trebuchet MS", Helvetica, sans-serif ; font-size: 90; }
                     article {-webkit-flex: 3;
@@ -12,10 +12,10 @@
          </style>  
 		 <body>
 		 <p><h3> Kuba atskaite - Alise Ruža, 10.e </h3></p>
-		 <p><h1> Mūsu kuba veidošanā piedalījās Elīna Pūce, Paula Miķelsone, Rūta Zemīte, Roberts Ozoliņš un Ilga Līne 
+		 <p><h2> Mūsu kuba veidošanā piedalījās Elīna Pūce, Paula Miķelsone, Rūta Zemīte, Roberts Ozoliņš un Ilga Līne 
 		 <p>Pirms karantīnas izveidojām prototipu, kuru paspējām izprintēt, taču to nevarējām salikt kopā. Pirmais mēginājums "izgāzās" . </p>
 		 <p> Šeit redzami attēli no pirmā kubiciņa skaldnēm, kuras pat arī ar lielām pūlēm, bija neiespējami salikt.  </p>
-		 <img url('Photos/ar.jpg')>
+		 <img src="Photos/ar.jpg" alt="Alise" width="500" height="600">
 		 
 		 
 		 
