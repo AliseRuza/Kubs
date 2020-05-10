@@ -17,6 +17,6 @@
 		 <p> Šeit redzami attēli no pirmā kubiciņa skaldnēm, kuras pat arī ar lielām pūlēm, bija neiespējami salikt.  </p>
 		 <img src="Photos/ar.jpg" alt="Alise" width="500" height="400"> <img src="Photos/pm.jpg" alt="Paula" width="500" height="400">
 		 <img src="Photos/rz.jpg" alt="Ruta" width="500" height="400"> <img src="Photos/kopiga3.jpg" alt="Robets" width="800" height="600">
-		 <p> <h1>  Pēc šī neveiksmīgā mēģinājuma, mēs izveidojām otro variantu, kuru grasījāmies izprintēt pirms vēl nenojautām par karanatīnas sākumu, taču nepaspējām <p>
+		 <p> <h1> Pēc šī neveiksmīgā mēģinājuma, mēs izveidojām otro variantu, ņemot vērā kļūdas, kuras vairs nepieļāvām : kubs pārāk šaurs, pārāk daudz robu un sarežģīu dizainu uz kuba. (Robeta QE kods ir spilgts piemērs). Šo varaiantu grasījāmies izprintēt pirms vēl nenojautām par karanatīnas sākumu, taču nepaspējām <p>
 		 <p> <h2> šeit ir links uz otro prototipu - <a href="https://www.tinkercad.com/things/5W173aWeVgX-neat-robo/edit?sharecode=6Va6Pl42KeLXoyVNu5XuBydnEMwDYERlVVX2Km7VZtA="> Mēģinājums 2 </a> <p> 
 		 
