@@ -16,6 +16,6 @@
 		 <p>Pirms karantīnas izveidojām prototipu, kuru paspējām izprintēt, taču to nevarējām salikt kopā. Pirmais mēginājums "izgāzās" . </p>
 		 <p> Šeit redzami attēli no pirmā kubiciņa skaldnēm, kuras pat arī ar lielām pūlēm, bija neiespējami salikt.  </p>
 		 <img src="Photos/ar.jpg" alt="Alise" width="500" height="400"> <img src="Photos/pm.jpg" alt="Paula" width="500" height="400">
-		 <img src="Photos/rz.jpg" alt="Alise" width="500" height="400"> <img src="Photos/pm.jpg" alt="Paula" width="500" height="400">
+		 <img src="Photos/rz.jpg" alt="Ruta" width="500" height="400"> <img src="Photos/ro.jpg" alt="Robets" width="500" height="400">
 		 
 		 
