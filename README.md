@@ -3,8 +3,8 @@
 <title> Kuba atskaite </title>
 <meta charset="UTF-8">
         <style>
-            body {background-color: LightGoldenRodYellow }
-            h1 {background-color: Linen ;font-size: 46;}
+            body {background-image: url('Photos/kopiga1.jpg'); }
+            h1 {background-color: Linen ;font-size: 26;}
             h2 {background-color: Moccasin ; font-family: monospace}
             h3 {background-color: Wheat ; font-family: "Trebuchet MS", Helvetica, sans-serif ; font-size: 90; }
                     article {-webkit-flex: 3;
