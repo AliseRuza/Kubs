@@ -12,7 +12,7 @@
          </style>  
 		 <body>
 		 <p><h3> Kuba atskaite - Alise Ruža, 10.e </h3></p>
-		 <p><h2> Mūsu kuba veidošanā piedalījos es, Elīna Pūce, Paula Miķelsone, Rūta Zemīte, Roberts Ozoliņš un Ilga Līne 
+		 <p><h2> Mūsu kuba veidošanā piedalījos es, Elīna Pūce, Paula Miķelsone, Rūta Zemīte, Roberts Ozoliņš un Ilga Līne.
 		 <p>Pirms karantīnas izveidojām prototipu, kuru paspējām izprintēt, taču to nevarējām salikt kopā. Pirmais mēginājums "izgāzās" . </p>
 		 <p> Šeit redzami attēli no pirmā kubiciņa skaldnēm, kuras pat arī ar lielām pūlēm, bija neiespējami salikt.  </p>
 		 <img src="Photos/ar.jpg" alt="Alise" width="500" height="400"> <img src="Photos/pm.jpg" alt="Paula" width="500" height="400">
