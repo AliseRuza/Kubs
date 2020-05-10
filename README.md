@@ -15,7 +15,7 @@
 		 <p><h1> Mūsu kuba veidošanā piedalījās Elīna Pūce, Paula Miķelsone, Rūta Zemīte, Roberts Ozoliņš un Ilga Līne  </p>
 		 <p>Pirms karantīnas izveidojām prototipu, kuru paspējām izprintēt, taču to nevarējām salikt kopā. Pirmais mēginājums "izgāzās" . </p>
 		 <p> Šeit redzami attēli no pirmā kubiciņa skaldnēm, kuras pat arī ar lielām pūlēm, bija neiespējami salikt. </h1> <p>
-		 <img src="Photos/ar.jpg" alt=Alise">
+		 <img url('Photos/ar.jpg')>
 		 
 		 
 		 
