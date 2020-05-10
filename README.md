@@ -16,7 +16,7 @@
 		 <p>Pirms karantīnas izveidojām prototipu, kuru paspējām izprintēt, taču to nevarējām salikt kopā. Pirmais mēginājums "izgāzās" . </p>
 		 <p> Šeit redzami attēli no pirmā kubiciņa skaldnēm, kuras pat arī ar lielām pūlēm, bija neiespējami salikt.  </p>
 		 <img src="Photos/ar.jpg" alt="Alise" width="500" height="400"> <img src="Photos/pm.jpg" alt="Paula" width="500" height="400">
-		 <img src="Photos/rz.jpg" alt="Ruta" width="500" height="400"> <img src="Photos/kopiga3.jpg" alt="Robets" width="500" height="600">
+		 <img src="Photos/rz.jpg" alt="Ruta" width="500" height="400"> <img src="Photos/kopiga3.jpg" alt="Robets" width="800" height="600">
 		 <p> <h1>  Pēc šī neveiksmīgā mēģinājuma, mēs izveidojām otro variantu, kuru grasījāmies izprintēt pirms vēl nenojautām par karanatīnas sākumu, taču nepaspējām <p>
 		 <p> <h2> šeit ir links uz otro prototipu - <a href="https://www.youtube.com/watch?v=6Dh-RL__uN4"> This is a nice link </a> <p> 
 		 
