@@ -18,5 +18,5 @@
 		 <img src="Photos/ar.jpg" alt="Alise" width="500" height="400"> <img src="Photos/pm.jpg" alt="Paula" width="500" height="400">
 		 <img src="Photos/rz.jpg" alt="Ruta" width="500" height="400"> <img src="Photos/kopiga3.jpg" alt="Robets" width="800" height="600">
 		 <p> <h1> Pēc šī neveiksmīgā mēģinājuma, mēs izveidojām otro variantu, ņemot vērā kļūdas, kuras vairs nepieļāvām : kubs pārāk šaurs, pārāk daudz robu un sarežģīu dizainu uz kuba. (Robeta QR kods ir spilgts piemērs). Šo varaiantu grasījāmies izprintēt pirms vēl nenojautām par karanatīnas sākumu, taču nepaspējām <p>
-		 <p> <h2> šeit ir links uz otro prototipu - <a href="https://www.tinkercad.com/things/5W173aWeVgX-neat-robo/edit?sharecode=6Va6Pl42KeLXoyVNu5XuBydnEMwDYERlVVX2Km7VZtA="> Mēģinājums 2 </a> <p> 
-		 
+		 <p> <h2> šeit ir links uz otro prototipu - <a href="https://www.tinkercad.com/things/5W173aWeVgX-kubs/edit?sharecode=G5g4QC8YAJ5qIhT4G1C_y3_5QZf48q5RNOf9bxKU-gE"> Mēģinājums 2 </a> <p> 
+		 .
